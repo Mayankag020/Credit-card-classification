@@ -12,7 +12,6 @@ There are two folders:
 
 This project is made for Data Analysis and Machine Learning implementation. 
 <br>This project has been made by the following students from IIT Bombay:
-
-<br>Ayush Raj Tarway,
-<br>Mayank Agrawal,
+<br>Ayush Raj Tarway
+<br>Mayank Agrawal
 
