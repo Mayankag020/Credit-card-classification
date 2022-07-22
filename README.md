@@ -1,4 +1,4 @@
-# Credit-score-classification
+# Credit-Risk-Analysis
 Given a person’s credit-related information, built a machine learning model that classifies the persons credit score as poor, standard or good.
 
 There are two folders:
