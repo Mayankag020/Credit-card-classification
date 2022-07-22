@@ -11,7 +11,7 @@ There are two folders:
    * We have also used hyper parameter tuning as well as Feature Importance Selection to improve the Accuracy of the model.
 
 This project is made for Data Analysis and Machine Learning implementation. 
-<br>This project has been made by the following students from IIT Bombay:
+<br>This project has been made by the collaborative work of the follwing students from IIT Bombay:
 <br>Ayush Raj Tarway
 <br>Mayank Agrawal
 
