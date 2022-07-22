@@ -10,10 +10,10 @@ There are two folders:
    * In this we have done an extensive data cleaning and preprocessing of the Data and then applied various models from SciKit-Learn to predict the category of Credit score of the input data. 
    * We have also used hyper parameter tuning as well as Feature Importance Selection to improve the Accuracy of the model.
 
-This is a self project for Data Analysis and Machine Learning implementation. 
+This project is made for Data Analysis and Machine Learning implementation. 
 <br>This project has been made by the following students from IIT Bombay:
 
 <br>Ayush Raj Tarway,
-<br>Roll No. 200260012,
-<br><br>Mayank Agarwal,
-<br>Roll No.200260028,
+
+<br><br>Mayank Agrawal,
+
