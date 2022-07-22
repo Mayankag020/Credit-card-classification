@@ -12,5 +12,5 @@ There are two folders:
 
 This project is made for Data Analysis and Machine Learning implementation. 
 
-<br>This project has been made by the collaborative efforts of Ayush Raj Tarway and Mayank Agrawal in Summer 2022 as part of their machine learning exploration.
+<br>This project has been made by the collaborative efforts of Ayush Raj Tarway and Mayank Agrawal in Summer 2022 as a part of their machine learning exploration.
 
